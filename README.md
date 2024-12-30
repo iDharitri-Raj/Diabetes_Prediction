@@ -41,7 +41,6 @@ Required Python libraries:
 
 ### 1. Data Preprocessing
 - Load and explore the dataset.
-- Standardize features using `StandardScaler`.
 
 ### 2. Train-Test Split
 - Split data into 80% training and 20% testing subsets.
